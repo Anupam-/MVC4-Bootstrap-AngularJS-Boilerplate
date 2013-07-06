@@ -1,4 +1,4 @@
-HTML5 / MVC4 / Bootstrap / AngularJS Boilerplate
+MVC4 / Bootstrap / AngularJS Boilerplate
 ====================================
 
 This is simply a default template I have set up to speed up future projects.
